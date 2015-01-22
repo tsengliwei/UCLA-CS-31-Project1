@@ -1,0 +1,13 @@
+﻿Build started 2014/1/16 下午 11:02:43.
+     1>Project "c:\Users\acer\documents\visual studio 2012\Projects\logic_error.cpp\logic_error.cpp\logic_error.cpp.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt logic_error.cpp
+         logic_error.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\acer\documents\visual studio 2012\Projects\logic_error.cpp\Debug\logic_error.cpp.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\acer\documents\visual studio 2012\Projects\logic_error.cpp\Debug\logic_error.cpp.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\acer\documents\visual studio 2012\Projects\logic_error.cpp\Debug\logic_error.cpp.lib" /MACHINE:X86 Debug\logic_error.obj
+         logic_error.cpp.vcxproj -> c:\users\acer\documents\visual studio 2012\Projects\logic_error.cpp\Debug\logic_error.cpp.exe
+     1>Done Building Project "c:\Users\acer\documents\visual studio 2012\Projects\logic_error.cpp\logic_error.cpp\logic_error.cpp.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.03

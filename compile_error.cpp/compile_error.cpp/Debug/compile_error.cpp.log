@@ -1,0 +1,14 @@
+﻿Build started 2014/1/17 上午 12:12:01.
+     1>Project "C:\Users\acer\Desktop\UCLA\Freshman Q2\CS 31\Project 1\compile_error.cpp\compile_error.cpp\compile_error.cpp.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt compile_error.cpp
+         compile_error.cpp
+     1>c:\users\acer\desktop\ucla\freshman q2\cs 31\project 1\compile_error.cpp\compile_error.cpp\compile_error.cpp(14): error C2146: syntax error : missing ';' before identifier 'cin'
+     1>c:\users\acer\desktop\ucla\freshman q2\cs 31\project 1\compile_error.cpp\compile_error.cpp\compile_error.cpp(17): error C2001: newline in constant
+     1>c:\users\acer\desktop\ucla\freshman q2\cs 31\project 1\compile_error.cpp\compile_error.cpp\compile_error.cpp(18): error C2146: syntax error : missing ';' before identifier 'cin'
+     1>c:\users\acer\desktop\ucla\freshman q2\cs 31\project 1\compile_error.cpp\compile_error.cpp\compile_error.cpp(20): error C2296: '%' : illegal, left operand has type 'double'
+     1>Done Building Project "C:\Users\acer\Desktop\UCLA\Freshman Q2\CS 31\Project 1\compile_error.cpp\compile_error.cpp\compile_error.cpp.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.92
